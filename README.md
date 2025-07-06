@@ -159,24 +159,6 @@ src/
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
 
-## 🚀 Deployment
-
-The application can be deployed to:
-- **Vercel** (recommended for React/Vite)
-- **Netlify**
-- **GitHub Pages**
-- **Any static hosting service**
-
-### Vercel Deployment
-1. Push code to GitHub
-2. Connect repository to Vercel
-3. Deploy with default settings
-
-### Build for Production
-\`\`\`bash
-npm run build
-\`\`\`
-The built files will be in the `dist/` directory.
 
 ## 🔧 Development Notes
 
